@@ -1,9 +1,9 @@
 
 ### Hi there 👋, Fahmid Uddin Nabil 
 I am Fahmid Uddin Nabil from Bangladesh.
-I have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Python Developer.
 
-Skills: PYTHON / PHP / JS / HTML / CSS
+
+Highly skilled software engineer with a strong foundation in front-end and back-end technologies such as HTML, CSS, JavaScript, React, and Node.js. Proficient in database management using MongoDB and experienced in developing cross-platform mobile applications using React Native. Skilled in using Next.js and Express.js to build efficient and scalable web applications. Proficient in Python and Java, with a demonstrated ability to quickly learn and effectively utilize new technologies. Seeking opportunities to leverage my skills and contribute to exciting and impactful projects.
 
 
 
